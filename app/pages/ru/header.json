@@ -1,0 +1,319 @@
+{
+    "header": [
+        {
+            "id": "e4c0a466-a9eb-4ae8-a9f1-ae71d44e3a34",
+            "topbar": [
+                {
+                    "id": "57bba180-422c-4d6c-aac9-e2d1471761a0",
+                    "contacts": [
+                        {
+                            "id": "013652b1-fb27-4c72-a0ec-8907ec535191",
+                            "src": "/icons/phone-device.svg",
+                            "alt": "Номер телефона",
+                            "title": "+38 (067) 262-3778"
+                        },
+                        {
+                            "id": "ebff2a60-08bb-4b08-9951-f5af25be71f0",
+                            "src": "/icons/envelope.svg",
+                            "alt": "Электронная почта",
+                            "title": "drimbudproject@gmail.com"
+                        },
+                        {
+                            "id": "c5d95cd3-029d-47b4-98f0-7c3a0a763ba3",
+                            "src": "/icons/location.svg",
+                            "alt": "Адрес",
+                            "title": "пр. Александра Поля, 28а, Днепр"
+                        }
+                    ],
+                    "messengers": [
+                        {
+                            "id": "e74edc66-9d16-4acd-859b-b1e7e147374a",
+                            "src": "/icons/telegram.svg",
+                            "alt": "Написать в Telegram",
+                            "href": "https://t.me/+380672623778"
+                        },
+                        {
+                            "id": "be0fbc7e-3103-4e5d-b760-213c67fde156",
+                            "src": "/icons/viber.svg",
+                            "alt": "Написать в Viber",
+                            "href": "viber://chat?number=+380672623778"
+                        },
+                        {
+                            "id": "4335eef2-e32e-4dcb-bb11-2eb471ef33be",
+                            "src": "/icons/whatsapp.svg",
+                            "alt": "Написать в WhatsApp",
+                            "href": "https://wa.me/+380672623778"
+                        }
+                    ]
+                }
+            ],
+            "navbar": [
+                {
+                    "id": "2b410fac-8d90-4fd0-809b-8594f9f8b438",
+                    "logo": [
+                        {
+                            "id": "a59407e7-082a-4377-a5cc-0ed41fa31319",
+                            "src": "/brand/logo.svg",
+                            "alt": "ООО «ДРІМБУДПРОДЖЕКТ» — Мечтай. Проектируй. Строй.",
+                            "href": "/pages/ru"
+                        }
+                    ],
+                    "menu": [
+                        {
+                            "id": "f5ee0efc-b020-4a95-83d4-5ba24377b480",
+                            "extended": [
+                                {
+                                    "id": "5085fd23-26f0-487c-8072-0dd94ad01cf5",
+                                    "title": "Проектирование",
+                                    "src": "/icons/chevron-down.svg",
+                                    "alt": "Показать все услуги",
+                                    "items": [
+                                        {
+                                            "id": "2b23daaf-8f7b-47ef-8b05-16d44d5e612b",
+                                            "title": "Коттеджи, дачные и садовые дома",
+                                            "src": "/icons/kotedzhi-budynky-dachni-ta-sadovi.svg",
+                                            "alt": "Коттеджи, дачные и садовые дома",
+                                            "href": "/pages/ru/proyektirovaniye/kottedzhi-doma-dachnyye-i-sadovyye"
+                                        },
+                                        {
+                                            "id": "e4da0df1-d742-4d8a-93fb-92b1cb7d6788",
+                                            "title": "Многоквартирные жилые дома",
+                                            "src": "/icons/budynky-zhytlovi-bahatokvartyrni.svg",
+                                            "alt": "Многоквартирные жилые дома",
+                                            "href": "/pages/ru/proyektirovaniye/mnogokvartirnyye-zhilyye-doma"
+                                        },
+                                        {
+                                            "id": "f4e05a9e-eb3c-40cb-81c3-a3602b5ce815",
+                                            "title": "Общежития",
+                                            "src": "/icons/hurtozhytky.svg",
+                                            "alt": "Общежития",
+                                            "href": "/pages/ru/proyektirovaniye/obshchezhitiya"
+                                        },
+                                        {
+                                            "id": "",
+                                            "title": "Гостиницы, рестораны, кафе, столовые",
+                                            "src": "/icons/hoteli-restorany-kafe-yidalni.svg",
+                                            "alt": "Гостиницы, рестораны, кафе, столовые",
+                                            "href": "/pages/ru/proyektirovaniye/gostinitsy-restorany-kafe-stolovyye"
+                                        },
+                                        {
+                                            "id": "cf83e3a7-d1a4-4a33-a55a-db6d5c8d702d",
+                                            "title": "Офисные здания",
+                                            "src": "/icons/budivli-ofisni.svg",
+                                            "alt": "Офисные здания",
+                                            "href": "/pages/ru/proyektirovaniye/zdaniya-ofisnyye"
+                                        },
+                                        {
+                                            "id": "f2238be4-3543-4b8f-a9cf-62c005c69a9e",
+                                            "title": "Торговые центры, универмаги, магазины",
+                                            "src": "/icons/torhovi-tsentry-univermahy-mahazyny.svg",
+                                            "alt": "Торговые центры, универмаги, магазины",
+                                            "href": "/pages/ru/proyektirovaniye/torgovyye-tsentry-univermagi-magaziny"
+                                        },
+                                        {
+                                            "id": "543e712f-5d1f-4966-b044-0dc4b937ab97",
+                                            "title": "Здания для публичных выступлений",
+                                            "src": "/icons/budivli-dlya-publichnykh-vystupiv.svg",
+                                            "alt": "Здания для публичных выступлений",
+                                            "href": "/pages/ru/proyektirovaniye/zdaniya-dlya-publichnykhv-vystupleniy"
+                                        },
+                                        {
+                                            "id": "767542f4-53cd-44a0-b1d9-f656a8dafd42",
+                                            "title": "Спортивные залы",
+                                            "src": "/icons/sportyvni-zaly.svg",
+                                            "alt": "Спортивные залы",
+                                            "href": "/pages/ru/proyektirovaniye/sportivnyye-zaly"
+                                        },
+                                        {
+                                            "id": "561a3f73-e70f-4d07-a808-502f0ffbf86c",
+                                            "title": "Здания культовой и религиозной деятельности",
+                                            "src": "/icons/budivli-kultovoyi-ta-relihiynoyi-diyalnosti.svg",
+                                            "alt": "Здания культовой и религиозной деятельности",
+                                            "href": "/pages/ru/proyektirovaniye/zdaniya-kultovoy-i-religioznoy-deyatelnosti"
+                                        },
+                                        {
+                                            "id": "3c73adab-bc3d-471d-b670-4be4a720b267",
+                                            "title": "Здания транспорта и средств связи",
+                                            "src": "/icons/budivli-transportu-ta-zasobiv-zvyazku.svg",
+                                            "alt": "Здания транспорта и средств связи",
+                                            "href": "/pages/ru/proyektirovaniye/zdaniya-transporta-i-sredstv-svyazi"
+                                        },
+                                        {
+                                            "id": "9c981589-2a4b-44ff-b808-e3cb059b19a5",
+                                            "title": "Промышленные и складские здания",
+                                            "src": "/icons/budivli-promyslovi-ta-skladski.svg",
+                                            "alt": "Промышленные и складские здания",
+                                            "href": "/pages/ru/proyektirovaniye/promyshlennyye-i-skladskiye-zdaniya"
+                                        },
+                                        {
+                                            "id": "1b147d24-c98c-4624-a025-a34420b4882f",
+                                            "title": "Резервуары, силосы и склады",
+                                            "src": "/icons/rezervuary-sylosy-ta-sklady.svg",
+                                            "alt": "Резервуары, силосы и склады",
+                                            "href": "/pages/ru/proyektirovaniye/rezervuary-silosy-i-sklady"
+                                        },
+                                        {
+                                            "id": "17f29f8f-370c-440b-a618-df9c3012f9f7",
+                                            "title": "Сельскохозяйственные постройки",
+                                            "src": "/icons/silskohospodarski-sporudy.svg",
+                                            "alt": "Сельскохозяйственные постройки",
+                                            "href": "/pages/ru/proyektirovaniye/selskokhozyaystvennyye-postroyki"
+                                        },
+                                        {
+                                            "id": "e73bbd00-0c88-42f4-8b18-061891e57ea8",
+                                            "title": "Автострады, улицы и дороги",
+                                            "src": "/icons/avtostrady-vulytsi-ta-dorohy.svg",
+                                            "alt": "Автострады, улицы и дороги",
+                                            "href": "/pages/ru/proyektirovaniye/avtostrady-ulitsy-i-dorogi"
+                                        },
+                                        {
+                                            "id": "c5d09071-db39-4e0f-babd-271dbe13cf23",
+                                            "title": "Гидросооружения",
+                                            "src": "/icons/hidrosporudy.svg",
+                                            "alt": "Гидросооружения",
+                                            "href": "/pages/ru/proyektirovaniye/gidrosooruzheniya"
+                                        },
+                                        {
+                                            "id": "5b8fd007-daf0-491b-89b4-34b193a1968d",
+                                            "title": "Инженерные сооружения",
+                                            "src": "/icons/inzhenerni-sporudy.svg",
+                                            "alt": "Инженерные сооружения",
+                                            "href": "/pages/ru/proyektirovaniye/inzhenernyye-sooruzheniya"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "64a58fd5-60c9-4632-9f6a-79927df370c6",
+                                    "title": "Строительство",
+                                    "src": "/icons/chevron-down.svg",
+                                    "alt": "Показать все услуги",
+                                    "items": [
+                                        {
+                                            "id": "2ef657ec-14fd-43c3-9e11-d48a315bfa22",
+                                            "title": "Жилищно-гражданское строительство",
+                                            "src": "/icons/zhytlovo-tsyvilne-budivnytstvo.svg",
+                                            "alt": "Жилищно-гражданское строительство",
+                                            "href": "/pages/ru/stroitelstvo/zhilishchno-grazhdanskoye-stroitelstvo"
+                                        },
+                                        {
+                                            "id": "2b7e793d-d3a1-4339-864e-c59c9c3a589c",
+                                            "title": "Промышленное строительство",
+                                            "src": "/icons/promyslove-budivnytstvo.svg",
+                                            "alt": "Промышленное строительство",
+                                            "href": "/pages/ru/stroitelstvo/promyshlennoye-stroitelstvo"
+                                        },
+                                        {
+                                            "id": "331392e2-3042-45ed-a295-cdd8178f9d4d",
+                                            "title": "Автомагистрали и транспортные дороги",
+                                            "src": "/icons/avtomahistraley-ta-transportnykh-dorih.svg",
+                                            "alt": "Автомагистрали и транспортные дороги",
+                                            "href": "/pages/ru/stroitelstvo/avtomagistraley-i-transportnykh-dorog"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "e790d8ef-534c-4aa7-977c-b83c2ca277e8",
+                                    "title": "Бомбоубежище",
+                                    "src": "/icons/chevron-down.svg",
+                                    "alt": "Показать все услуги",
+                                    "items": [
+                                        {
+                                            "id": "9b9a7b5f-124d-48c9-93fb-edf710715582",
+                                            "title": "Противорадиационные укрытия",
+                                            "src": "/icons/protyradiatsiyni-uukryttya.svg",
+                                            "alt": "Противорадиационные укрытия",
+                                            "href": "/pages/ru/bomboubezhishche/protivoradiatsionnyye-ukrytiya"
+                                        },
+                                        {
+                                            "id": "e68aa7e1-2dce-487f-8c90-fe2efd565e2c",
+                                            "title": "Бомбоубежища (убежища)",
+                                            "src": "/icons/skhovyshcha.svg",
+                                            "alt": "Бомбоубежища (убежища)",
+                                            "href": "/pages/ru/bomboubezhishche/ubezhishche"
+                                        },
+                                        {
+                                            "id": "668ef793-8ef9-4533-861d-234d781dc67c",
+                                            "title": "Сооружения двойного назначения",
+                                            "src": "/icons/sporudy-podviynoho-pryznachennya.svg",
+                                            "alt": "Сооружения двойного назначения",
+                                            "href": "/pages/ru/bomboubezhishche/sooruzheniya-dvoynogo-naznacheniya"
+                                        },
+                                        {
+                                            "id": "224de427-fee1-4a65-bf02-cf451ff73bc9",
+                                            "title": "Простейшие укрытия",
+                                            "src": "/icons/nayprostishi-ukryttya.svg",
+                                            "alt": "Простейшие укрытия",
+                                            "href": "/pages/ru/bomboubezhishche/prosteyshiye-ukrytiya"
+                                        },
+                                        {
+                                            "id": "db991bd6-9ccf-4010-bccd-c919915e44f0",
+                                            "title": "Быстровозводимые защитные сооружения",
+                                            "src": "/icons/shvydkosporudzhuvani-zakhysni-sporudy.svg",
+                                            "alt": "Быстровозводимые защитные сооружения",
+                                            "href": "/pages/ru/bomboubezhishche/bystrovozvodimyye-zashchitnyye-sooruzheniya"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "standard": [
+                                {
+                                    "id": "4ad64752-2b45-468f-bbc7-ebb026e47582",
+                                    "title": "Выполненные объекты",
+                                    "href": "/pages/ru/vypolnennyye-obyekty"
+                                },
+                                {
+                                    "id": "0c45790c-9e5e-4c1d-9484-40395ea25097",
+                                    "title": "Документация",
+                                    "href": "/pages/ru/dokumentatsiya"
+                                },
+                                {
+                                    "id": "54adf06c-13b6-47b8-8e45-bbcd613f8f38",
+                                    "title": "О нас",
+                                    "href": "/pages/ru/o-nas"
+                                }
+                            ]
+                        }
+                    ],
+                    "aside": [
+                        {
+                            "id": "622f9517-8001-4ae9-94e8-85de563d5e02",
+                            "standard": [
+                                {
+                                    "id": "c31ff31e-339f-4ae1-8473-d278d02438e3",
+                                    "title": "Контакты",
+                                    "href": "/pages/ru/kontakty"
+                                }
+                            ],
+                            "colorful": [
+                                {
+                                    "id": "97e4b713-c280-4b72-8455-c1b98595a1e6",
+                                    "title": "Консультация",
+                                    "href": "/pages/ru/konsultatsiya"
+                                }
+                            ],
+                            "extended": [
+                                {
+                                    "id": "97540ab4-11c4-42a3-8d67-41de56580e60",
+                                    "src": "/icons/language-switcher.svg",
+                                    "alt": "Сменить язык",
+                                    "items": [
+                                        {
+                                            "id": "f85d4083-03b3-4be1-8d88-3fa37a097b07",
+                                            "title": "RU",
+                                            "href": "/pages/ru"
+                                        },
+                                        {
+                                            "id": "604b5ec3-fb1b-4a6f-bb58-b4e5dc56f216",
+                                            "title": "UA",
+                                            "href": "/pages/ua"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

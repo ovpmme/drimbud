@@ -1,0 +1,43 @@
+{
+    "floating": [
+        {
+            "id": "f65ef992-5661-4a35-b8b7-9ab6bdc8b2d9",
+            "src": "/icons/phone-device.svg",
+            "alt": "Зв'язатися з нами",
+            "items": [
+                {
+                    "id": "078a77ed-41b3-4b54-acbc-08023a4e20e1",
+                    "color": "#0087e6",
+                    "src": "/icons/kyivstar.svg",
+                    "alt": "Зателефонувати на Київстар",
+                    "title": "Зателефонувати на Київстар",
+                    "href": "tel:+380672623778"
+                },
+                {
+                    "id": "1655a582-f3f3-48db-9df2-b4da010847f6",
+                    "color": "#359cde",
+                    "src": "/icons/telegram.svg",
+                    "alt": "Написати у Telegram",
+                    "title": "Написати у Telegram",
+                    "href": "https://t.me/+380672623778"
+                },
+                {
+                    "id": "b6792e07-5e05-4861-ab44-2b64dea32e18",
+                    "color": "#583fbb",
+                    "src": "/icons/viber.svg",
+                    "alt": "Написати у Viber",
+                    "title": "Написати у Viber",
+                    "href": "viber://chat?number=+380672623778"
+                },
+                {
+                    "id": "e0876590-4eef-4ff5-99b2-5508a3009a4d",
+                    "color": "#25d366",
+                    "src": "/icons/whatsapp.svg",
+                    "alt": "Написати у WhatsApp",
+                    "title": "Написати у WhatsApp",
+                    "href": "https://wa.me/+380672623778"
+                }
+            ]
+        }
+    ]
+}

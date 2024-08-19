@@ -1,0 +1,37 @@
+[
+    {
+        "id": "82f30cb4-8ba3-4a04-8f58-cdb5fd8ff5f6",
+        "title": "Контакти",
+        "parahraph": "Всі необхідні контактні дані для зв'язку з нашою командою",
+        "contacts": [
+            {
+                "id": "50a24c87-cc4c-41e4-a370-57d29c6201ca",
+                "src": "/icons/clock.svg",
+                "alt": "Графік роботи",
+                "title": "Графік роботи",
+                "parahraph": "ПН-ПТ, 8-18"
+            },
+            {
+                "id": "d6fc2f09-183f-4b43-8c55-2425a47daa49",
+                "src": "/icons/phone-device.svg",
+                "alt": "Номер телефону",
+                "title": "Номер телефону",
+                "parahraph": "+38 (067) 262-3778"
+            },
+            {
+                "id": "a66927aa-f381-4d7b-945f-4b658f5cfa5c",
+                "src": "/icons/envelope.svg",
+                "alt": "Електронна пошта",
+                "title": "Електронна пошта",
+                "parahraph": "drimbudproject@gmail.com"
+            },
+            {
+                "id": "a673a9f0-e115-4481-98fc-39c5668a3a99",
+                "src": "/icons/location.svg",
+                "alt": "Адреса",
+                "title": "Адреса",
+                "parahraph": "пр. Олександра Поля, 28а, Дніпро"
+            }
+        ]
+    }
+]
